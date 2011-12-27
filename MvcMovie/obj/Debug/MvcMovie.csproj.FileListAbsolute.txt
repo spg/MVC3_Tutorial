@@ -1,0 +1,7 @@
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\ResolveAssemblyReference.cache
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\desktop-dell\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
